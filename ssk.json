@@ -1,0 +1,60 @@
+[
+    
+    
+ 
+ {
+     "age": "18",
+   "percent": "0",
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+     "sum_one": "12 000 руб",
+  "url": "https://google.com"
+         }
+    
+    
+,
+
+
+ {  
+     "age": "18",
+  
+   "percent": "0",
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    	"sum_one": "12 000 руб",
+   "url": "https://www.homecredit.ru"
+  
+    }
+    
+ ,
+ {
+      "age": "18",
+      "percent": "1",
+  "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+	"sum_one": "12 000 руб",
+  "url": "https://google.com"
+        
+  
+    }
+    
+    
+,
+
+
+ {
+  "age": "18",
+   "percent": "1",
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+	"sum_one": "12 000 руб",
+   "url": "https://www.homecredit.ru"
+  
+    }
+    
+
+
+
+
+ 
+   
+   
+  
+  
+]
